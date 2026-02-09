@@ -24,7 +24,7 @@
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahekKagdi&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahekKagdi01&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
